@@ -13,11 +13,13 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
