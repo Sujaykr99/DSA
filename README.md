@@ -17,9 +17,18 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
