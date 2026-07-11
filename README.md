@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sujaykr99/DSA/tree/master/0050-powx-n) |
+| [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sujaykr99/DSA/tree/master/0090-subsets-ii) |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
