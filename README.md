@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sujaykr99/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
@@ -57,9 +58,11 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
