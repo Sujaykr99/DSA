@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sujaykr99/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sujaykr99/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujaykr99/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -65,4 +67,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
