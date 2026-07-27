@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sujaykr99/DSA/tree/master/0090-subsets-ii) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sujaykr99/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
@@ -119,4 +121,16 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujaykr99/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujaykr99/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
