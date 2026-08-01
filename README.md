@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
@@ -69,6 +70,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Sujaykr99/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujaykr99/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -142,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujaykr99/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
