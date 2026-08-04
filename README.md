@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sujaykr99/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Sujaykr99/DSA/tree/master/0326-power-of-three) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Sujaykr99/DSA/tree/master/1922-count-good-numbers) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sujaykr99/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Sujaykr99/DSA/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/Sujaykr99/DSA/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
