@@ -9,6 +9,7 @@
 | [0326-power-of-three](https://github.com/Sujaykr99/DSA/tree/master/0326-power-of-three) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Sujaykr99/DSA/tree/master/1922-count-good-numbers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujaykr99/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujaykr99/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujaykr99/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Backtracking
 |  |
