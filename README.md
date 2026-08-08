@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sujaykr99/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Sujaykr99/DSA/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/Sujaykr99/DSA/tree/master/1922-count-good-numbers) |
 ## Array
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
