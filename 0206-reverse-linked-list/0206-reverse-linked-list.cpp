@@ -9,28 +9,44 @@
  * };
  */
 class Solution {
+private:
+    void solve(ListNode* prev, ListNode* curr, ListNode*& head) {
+        // base case
+        if (curr == NULL) {
+            head = prev;
+            return;
+        }
+
+        // recursive call
+        ListNode* forward = curr->next;
+
+        solve(curr, forward, head);
+        curr->next = prev;
+    }
+
 public:
     ListNode* reverseList(ListNode* head) {
 
-        if(head == NULL || head -> next == NULL){
-            return head ;
-        }
+        /* if (head == NULL || head->next == NULL) {
+             return head;
+         }
 
-        ListNode *prev = NULL ; 
-        ListNode *curr = head ;
-        ListNode *forward = NULL ;
+         ListNode* prev = NULL;
+         ListNode* curr = head;
+         ListNode* forward = NULL;
 
-        while(curr!=NULL){
-            forward = curr->next ;
-            curr->next = prev ;
-            prev = curr ;
-            curr = forward ;
-        }
-        
+         while (curr != NULL) {
+             forward = curr->next;
+             curr->next = prev;
+             prev = curr;
+             curr = forward;
+         }
+         return prev; */
 
-         return prev ;
-
-
-        
+        // recusion
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        solve( prev , curr , head ) ;
+        return head ;
     }
 };
