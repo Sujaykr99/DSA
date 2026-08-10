@@ -6,24 +6,54 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+// class Solution {
+// public:
+//     bool hasCycle(ListNode *head) {
+
+//        unordered_map<ListNode* , bool > visited ;
+
+//         ListNode * temp = head ; 
+
+//         while(temp != NULL) {
+
+//             if(visited[temp]==true){
+//                 return true ;
+//             }
+//             visited[temp] = true ;
+//             temp = temp ->next ;
+//         }
+      
+//       return false ;
+        
+//     }
+// };
+
+//floyd cycle detection algo 
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
 
-       unordered_map<ListNode* , bool > visited ;
+        if(head==NULL || head ->next == NULL) return false ;
 
-        ListNode * temp = head ; 
+        ListNode*fast = head ;
+        ListNode*slow = head ;
 
-        while(temp != NULL) {
+        while(slow!= NULL && fast!= NULL){
 
-            if(visited[temp]==true){
-                return true ;
+            fast = fast->next ;
+            if(fast!=NULL){
+                fast = fast->next ;
             }
-            visited[temp] = true ;
-            temp = temp ->next ;
+            slow = slow ->next ;
+
+            if(slow==fast) return true ;
+
         }
-      
-      return false ;
+        return false ;
+
+
+
+   
         
     }
 };
