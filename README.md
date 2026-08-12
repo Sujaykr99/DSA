@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Two Pointers
@@ -112,6 +113,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sujaykr99/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Sujaykr99/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujaykr99/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sujaykr99/DSA/tree/master/0344-reverse-string) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujaykr99/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -132,6 +135,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -200,6 +204,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Sujaykr99/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sujaykr99/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujaykr99/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0237-delete-node-in-a-linked-list) |
