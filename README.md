@@ -86,6 +86,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Sujaykr99/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/Sujaykr99/DSA/tree/master/0344-reverse-string) |
@@ -179,6 +180,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -216,4 +218,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sujaykr99/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujaykr99/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
