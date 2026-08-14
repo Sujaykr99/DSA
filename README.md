@@ -91,6 +91,7 @@
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/Sujaykr99/DSA/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujaykr99/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujaykr99/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -186,6 +187,7 @@
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujaykr99/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
