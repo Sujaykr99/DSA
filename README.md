@@ -43,6 +43,7 @@
 | [0090-subsets-ii](https://github.com/Sujaykr99/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujaykr99/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Sujaykr99/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sujaykr99/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -77,6 +78,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Sujaykr99/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sujaykr99/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujaykr99/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Sujaykr99/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sujaykr99/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -193,6 +195,7 @@
 | [0085-maximal-rectangle](https://github.com/Sujaykr99/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Sujaykr99/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujaykr99/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujaykr99/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -202,6 +205,7 @@
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujaykr99/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujaykr99/DSA/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
