@@ -45,6 +45,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Sujaykr99/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
@@ -200,6 +201,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujaykr99/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujaykr99/DSA/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
