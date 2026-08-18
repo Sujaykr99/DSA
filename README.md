@@ -203,6 +203,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujaykr99/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujaykr99/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -216,6 +217,7 @@
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -262,8 +264,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujaykr99/DSA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
