@@ -53,6 +53,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sujaykr99/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujaykr99/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujaykr99/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujaykr99/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
@@ -208,6 +209,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sujaykr99/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujaykr99/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sujaykr99/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujaykr99/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujaykr99/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
