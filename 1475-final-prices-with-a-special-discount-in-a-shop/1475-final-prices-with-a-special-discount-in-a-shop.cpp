@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
         stack<int> st;
-        st.push(0);
         vector<int> ans(prices.size());
 
         for (int i = prices.size() - 1; i >= 0; i--) {
@@ -11,8 +10,12 @@ public:
 
                 st.pop();
             }
-
-            ans[i] = prices[i] - st.top();
+             if (st.empty()) {
+                ans[i] = prices[i];
+            }
+            else {
+                ans[i] = prices[i] - st.top();
+            }
 
             st.push(prices[i]);
         }
