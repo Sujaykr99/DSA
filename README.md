@@ -57,6 +57,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujaykr99/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujaykr99/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sujaykr99/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujaykr99/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
 ## Backtracking
@@ -279,6 +280,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujaykr99/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sujaykr99/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
@@ -287,4 +289,5 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujaykr99/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Sujaykr99/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
