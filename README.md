@@ -46,6 +46,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Sujaykr99/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Sujaykr99/DSA/tree/master/0904-fruit-into-baskets) |
@@ -210,6 +211,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Sujaykr99/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
@@ -284,6 +286,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Sujaykr99/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujaykr99/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sujaykr99/DSA/tree/master/2073-time-needed-to-buy-tickets) |
