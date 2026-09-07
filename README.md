@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sujaykr99/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sujaykr99/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Sujaykr99/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sujaykr99/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/Sujaykr99/DSA/tree/master/0326-power-of-three) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujaykr99/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Sujaykr99/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujaykr99/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -331,4 +333,8 @@
 | [0232-implement-queue-using-stacks](https://github.com/Sujaykr99/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujaykr99/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sujaykr99/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sujaykr99/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
