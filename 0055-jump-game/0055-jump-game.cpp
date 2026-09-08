@@ -13,7 +13,7 @@ public:
             if(maxReach>=nums.size()-1) return true ;
         }
 
-        return maxReach>=nums.size()-1 ;
+        return false ;
         
     }
 };
