@@ -38,6 +38,7 @@
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Sujaykr99/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujaykr99/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sujaykr99/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sujaykr99/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sujaykr99/DSA/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
@@ -222,6 +224,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Sujaykr99/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Sujaykr99/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujaykr99/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujaykr99/DSA/tree/master/0907-sum-of-subarray-minimums) |
