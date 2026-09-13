@@ -6,12 +6,13 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
+
+                          // BFS+Reverse
+ /* class Solution {
+    public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
 
         vector<vector<int>> ans;
@@ -49,5 +50,38 @@ public:
         reverse(ans.begin(), ans.end());
 
         return ans;
+    }
+};*/
+   
+
+class Solution {
+public:
+    void solve(TreeNode* root , int level , vector<vector<int>>& ans){
+
+        if(root==NULL) return ;
+
+        if(level==ans.size()){
+
+            ans.push_back({}) ;
+        }
+
+        ans[level].push_back(root->val) ;
+
+        solve(root->left , level+1 , ans) ;
+        solve(root->right , level+1 , ans ) ;
+    }
+public:
+    vector<vector<int>> levelOrderBottom(TreeNode* root) {
+
+        vector<vector<int>> ans ;
+
+        solve(root , 0 , ans) ;
+
+         reverse(ans.begin(), ans.end());
+
+        return ans;
+
+        
+        
     }
 };
