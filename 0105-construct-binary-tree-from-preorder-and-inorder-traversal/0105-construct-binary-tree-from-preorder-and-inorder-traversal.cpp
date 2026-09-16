@@ -10,17 +10,27 @@
  * right(right) {}
  * };
  */
-class Solution {
-public:
-    int findPosition(vector<int> inorder, int element, int n) {
 
-        for (int i = 0; i < n; i++) {
-            if (inorder[i] == element) {
-                return i;
+ /*
+    public:
+        int findPosition(vector<int> inorder, int element, int n) {
+
+            for (int i = 0; i < n; i++) {
+                if (inorder[i] == element) {
+                    return i;
+                }
             }
+            return -1;
         }
-        return -1;
-    }
+        solve{
+       // int position = findPosition(inorder, ele, n); time complexity = O(N2) ;
+        }
+        */
+
+class Solution {
+ 
+
+    unordered_map<int, int> pos;
 
 public:
     TreeNode* solve(vector<int>& preorder, vector<int>& inorder, int& index,
@@ -31,11 +41,11 @@ public:
         if (index >= n || inorderStart > inorderEnd) {
             return NULL;
         }
-        int ele = preorder[index++];
+        int element = preorder[index++];
 
-        TreeNode* root = new TreeNode(ele);
-
-        int position = findPosition(inorder, ele, n);
+        TreeNode* root = new TreeNode(element);
+        // use mapping
+        int position = pos[element];
         // recursive call
 
         root->left =
@@ -52,7 +62,11 @@ public:
         int preorderIndex = 0;
         int n = inorder.size();
 
-        TreeNode* ans = solve(preorder,inorder, preorderIndex, 0, n - 1, n);
+        for (int i = 0; i < n; i++) {
+        // store index of inorder in mapp to find position
+           pos[inorder[i]] = i;
+        }
+        TreeNode* ans = solve(preorder, inorder, preorderIndex, 0, n - 1, n);
 
         return ans;
     }
