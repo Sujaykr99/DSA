@@ -56,6 +56,7 @@
 | [0704-binary-search](https://github.com/Sujaykr99/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Sujaykr99/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujaykr99/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
@@ -104,6 +105,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sujaykr99/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Sujaykr99/DSA/tree/master/0567-permutation-in-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Sujaykr99/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sujaykr99/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -178,6 +180,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -390,6 +393,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujaykr99/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -428,6 +432,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujaykr99/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
