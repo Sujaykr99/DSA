@@ -85,6 +85,7 @@
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sujaykr99/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Sujaykr99/DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Sujaykr99/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Sujaykr99/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sujaykr99/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujaykr99/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sujaykr99/DSA/tree/master/0567-permutation-in-string) |
@@ -294,6 +296,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sujaykr99/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sujaykr99/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Sujaykr99/DSA/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -390,6 +393,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sujaykr99/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sujaykr99/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Sujaykr99/DSA/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -429,6 +433,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Sujaykr99/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sujaykr99/DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Sujaykr99/DSA/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
