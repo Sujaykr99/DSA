@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sujaykr99/DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Sujaykr99/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sujaykr99/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sujaykr99/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sujaykr99/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -39,6 +40,7 @@
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sujaykr99/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Sujaykr99/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
@@ -310,6 +312,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sujaykr99/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sujaykr99/DSA/tree/master/0085-maximal-rectangle) |
 ## Linked List
