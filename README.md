@@ -53,6 +53,7 @@
 | [0134-gas-station](https://github.com/Sujaykr99/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sujaykr99/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sujaykr99/DSA/tree/master/0682-baseball-game) |
@@ -144,6 +145,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujaykr99/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Sujaykr99/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Sujaykr99/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujaykr99/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Sujaykr99/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -263,6 +265,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sujaykr99/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujaykr99/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sujaykr99/DSA/tree/master/0682-baseball-game) |
@@ -282,6 +285,7 @@
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujaykr99/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujaykr99/DSA/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
@@ -492,4 +496,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
