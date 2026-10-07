@@ -67,6 +67,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sujaykr99/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujaykr99/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujaykr99/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sujaykr99/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujaykr99/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujaykr99/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -276,6 +277,7 @@
 | [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujaykr99/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujaykr99/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujaykr99/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujaykr99/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sujaykr99/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -293,6 +295,7 @@
 | [0739-daily-temperatures](https://github.com/Sujaykr99/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujaykr99/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujaykr99/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
@@ -427,6 +430,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujaykr99/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -477,6 +481,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujaykr99/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
@@ -501,6 +506,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Ordered Set
 |  |
