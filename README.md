@@ -319,6 +319,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sujaykr99/DSA/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Sujaykr99/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -425,6 +426,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sujaykr99/DSA/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Sujaykr99/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -445,6 +447,7 @@
 | [0112-path-sum](https://github.com/Sujaykr99/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sujaykr99/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0617-merge-two-binary-trees](https://github.com/Sujaykr99/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -476,6 +479,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sujaykr99/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sujaykr99/DSA/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/Sujaykr99/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0700-search-in-a-binary-search-tree) |
