@@ -54,6 +54,7 @@
 | [0134-gas-station](https://github.com/Sujaykr99/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sujaykr99/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0414-third-maximum-number](https://github.com/Sujaykr99/DSA/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/Sujaykr99/DSA/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
