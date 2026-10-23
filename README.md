@@ -58,6 +58,7 @@
 | [0456-132-pattern](https://github.com/Sujaykr99/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sujaykr99/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujaykr99/DSA/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Sujaykr99/DSA/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Sujaykr99/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sujaykr99/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Sujaykr99/DSA/tree/master/0735-asteroid-collision) |
@@ -158,6 +159,7 @@
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/Sujaykr99/DSA/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Sujaykr99/DSA/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
@@ -200,6 +202,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Sujaykr99/DSA/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
