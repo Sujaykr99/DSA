@@ -160,6 +160,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/Sujaykr99/DSA/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Sujaykr99/DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sujaykr99/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -181,6 +182,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Sujaykr99/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujaykr99/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sujaykr99/DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Sujaykr99/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sujaykr99/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sujaykr99/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Sujaykr99/DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sujaykr99/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/Sujaykr99/DSA/tree/master/0912-sort-an-array) |
@@ -396,6 +399,7 @@
 | [0155-min-stack](https://github.com/Sujaykr99/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sujaykr99/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujaykr99/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
@@ -407,6 +411,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Sujaykr99/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
