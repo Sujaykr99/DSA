@@ -16,6 +16,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujaykr99/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Sujaykr99/DSA/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sujaykr99/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Sujaykr99/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujaykr99/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/Sujaykr99/DSA/tree/master/3024-type-of-triangle) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sujaykr99/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
 |  |
 | ------- |
