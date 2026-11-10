@@ -140,6 +140,7 @@
 | [0076-minimum-window-substring](https://github.com/Sujaykr99/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sujaykr99/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sujaykr99/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/Sujaykr99/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sujaykr99/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujaykr99/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sujaykr99/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sujaykr99/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sujaykr99/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujaykr99/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sujaykr99/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sujaykr99/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sujaykr99/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sujaykr99/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujaykr99/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -404,6 +407,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Sujaykr99/DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sujaykr99/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sujaykr99/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Sujaykr99/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujaykr99/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
