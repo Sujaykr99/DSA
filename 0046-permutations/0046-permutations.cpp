@@ -1,22 +1,24 @@
 class Solution {
-public:
-    void getpermutation(vector<int>&nums, int index , vector<vector<int>>&ans){
-   
-        if(index == nums.size()){
+    private :
+    void solve(vector<int>nums , int idx ,  vector<vector<int>>&ans){
+        //base case 
+        if(idx == nums.size()){
             ans.push_back(nums) ;
-            return ;
+        }
+       
+        for(int i = idx ; i < nums.size() ; i++){
+            swap(nums[i] , nums[idx]) ; 
+            solve(nums , idx+1 ,ans ) ;
+            swap(nums[idx], nums[i]) ;
 
         }
-        for(int i = index ; i<nums.size() ; i++ ){
-            swap(nums[index] , nums[i]) ;
-            getpermutation(nums , index+1 , ans ) ;
-            swap(nums[index], nums[i]) ;
-        }
     }
+public:
     vector<vector<int>> permute(vector<int>& nums) {
-             vector<vector<int>>ans ; 
-             int index = 0 ; 
-               getpermutation(nums , index , ans ) ;
+        vector<vector<int>>ans ;
+        // vector<int>output ; 
+        int idx = 0 ;
+        solve(nums , idx , ans ) ;
         return ans ;
     }
 };
