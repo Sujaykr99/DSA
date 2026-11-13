@@ -37,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/Sujaykr99/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sujaykr99/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Sujaykr99/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sujaykr99/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sujaykr99/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
@@ -109,6 +111,7 @@
 | [0001-two-sum](https://github.com/Sujaykr99/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujaykr99/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujaykr99/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sujaykr99/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Sujaykr99/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujaykr99/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -361,6 +364,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sujaykr99/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sujaykr99/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Sujaykr99/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sujaykr99/DSA/tree/master/0085-maximal-rectangle) |
@@ -578,5 +582,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sujaykr99/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sujaykr99/DSA/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sujaykr99/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
