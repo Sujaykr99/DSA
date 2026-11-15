@@ -42,6 +42,7 @@
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sujaykr99/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sujaykr99/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Sujaykr99/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sujaykr99/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Sujaykr99/DSA/tree/master/0055-jump-game) |
@@ -94,6 +95,7 @@
 | [0039-combination-sum](https://github.com/Sujaykr99/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujaykr99/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sujaykr99/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sujaykr99/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sujaykr99/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Sujaykr99/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sujaykr99/DSA/tree/master/0078-subsets) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sujaykr99/DSA/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Sujaykr99/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Sujaykr99/DSA/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Sujaykr99/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/Sujaykr99/DSA/tree/master/0414-third-maximum-number) |
