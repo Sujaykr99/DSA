@@ -1,6 +1,6 @@
 class Solution {
 private:
-    void solve(vector<int> nums, vector<int>& output, int idx,
+    void solve(vector<int> nums, int idx,
                vector<vector<int>>& ans) {
 
         // base case
@@ -18,7 +18,7 @@ private:
             seen.insert(nums[i]);
 
             swap(nums[i], nums[idx]);
-            solve(nums, output , idx + 1, ans);
+            solve(nums, idx + 1, ans);
             swap(nums[idx], nums[i]);
         }
     }
@@ -26,9 +26,8 @@ private:
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;
-        vector<int> output;
         int idx = 0;
-        solve(nums, output, idx, ans);
+        solve(nums, idx, ans);
         return ans;
     }
 };
